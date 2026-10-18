@@ -1,0 +1,4 @@
+Dataset,Official source,Licence status from source,Required action,Current status
+Fitzpatrick17k,https://github.com/mattgroh/fitzpatrick17k,CC BY-NC-SA 3.0 stated by repository,Verify exact image/source rights and intended use; source images from Atlas Dermatologico and DermaAmin.,Metadata CSV already supplied; images not yet verified
+SCIN,https://github.com/google-research-datasets/scin,SCIN Data Use License,"Review all conditions, attribution and sharing requirements before use.",Need download and audit schema/target-label overlap
+DermNet licensed dataset,https://dermnetnz.org/dermatology-image-dataset,Paid licence; terms depend on agreement,"Request quote/sample and confirm model-training, publication, mobile deployment and redistribution rights.","Optional, budget-dependent"

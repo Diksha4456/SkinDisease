@@ -1,0 +1,18 @@
+import urllib.request
+import re
+
+url = "http://www.atlasdermatologico.com.br/browse.jsf"
+req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+try:
+    html = urllib.request.urlopen(req, timeout=10).read().decode("utf-8", errors="ignore")
+    matches = re.findall(r'<a href="disease\.jsf\?diseaseId=(\d+)">([^<]+)</a>', html)
+    print(f"Total diseases on Atlas: {len(matches)}")
+    target_keywords = ["acne", "melasma", "chloasma", "psorias", "tinea", "vitiligo"]
+    found = []
+    for did, name in matches:
+        lower = name.lower()
+        if any(k in lower for k in target_keywords):
+            print(f"  did={did:<4}: {name}")
+            found.append((did, name))
+except Exception as e:
+    print("Error:", e)

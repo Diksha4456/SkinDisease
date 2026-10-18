@@ -1,0 +1,24 @@
+FAIRSKIN AI DATASET AUDIT REPORT
+==================================================
+
+Total verified clinical samples: 711
+Sources combined: ACNE04, HugsVision SkinDisease, Atlas Dermatologico, Wikimedia Commons
+Target diseases included: Acne, Melasma, Vitiligo, Psoriasis, Ringworm
+Control/OOD conditions included: Cellulitis, Impetigo, Chickenpox
+Acne Severity levels: Low (Mild/Moderate), High (Severe/Very Severe)
+
+Disease by FST:
+fitzpatrick_scale   1   2    3    4    5   6  All
+disease_label                                    
+acne                8   3   24   76   49   5  165
+melasma             8   2   19   15    8   2   54
+non_target_ood      9   9   10   10    6   6   50
+psoriasis          17   9   20   41   70  18  175
+ringworm           12  13   32   41   48   4  150
+vitiligo            5   4    8   30   47  23  117
+All                59  40  113  213  228  58  711
+
+Splits:
+  Train: 494
+  Val: 105
+  Test: 112

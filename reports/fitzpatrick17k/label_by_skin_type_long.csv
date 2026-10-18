@@ -1,0 +1,757 @@
+label,skin_type,records
+acanthosis nigricans,I,9
+acanthosis nigricans,II,11
+acanthosis nigricans,III,23
+acanthosis nigricans,IV,19
+acanthosis nigricans,Unknown,2
+acanthosis nigricans,V,17
+acanthosis nigricans,VI,11
+acne,I,44
+acne,II,65
+acne,III,36
+acne,IV,19
+acne,Unknown,1
+acne,V,18
+acne vulgaris,I,79
+acne vulgaris,II,144
+acne vulgaris,III,47
+acne vulgaris,IV,42
+acne vulgaris,Unknown,1
+acne vulgaris,V,15
+acne vulgaris,VI,7
+acquired autoimmune bullous diseaseherpes gestationis,I,25
+acquired autoimmune bullous diseaseherpes gestationis,II,20
+acquired autoimmune bullous diseaseherpes gestationis,III,15
+acquired autoimmune bullous diseaseherpes gestationis,IV,5
+acquired autoimmune bullous diseaseherpes gestationis,V,2
+acrodermatitis enteropathica,I,18
+acrodermatitis enteropathica,II,27
+acrodermatitis enteropathica,III,24
+acrodermatitis enteropathica,IV,14
+acrodermatitis enteropathica,Unknown,5
+acrodermatitis enteropathica,V,4
+actinic keratosis,I,33
+actinic keratosis,II,72
+actinic keratosis,III,30
+actinic keratosis,IV,21
+actinic keratosis,Unknown,7
+actinic keratosis,V,11
+actinic keratosis,VI,1
+allergic contact dermatitis,I,106
+allergic contact dermatitis,II,153
+allergic contact dermatitis,III,75
+allergic contact dermatitis,IV,62
+allergic contact dermatitis,Unknown,10
+allergic contact dermatitis,V,12
+allergic contact dermatitis,VI,12
+aplasia cutis,I,29
+aplasia cutis,II,25
+aplasia cutis,III,5
+aplasia cutis,IV,6
+aplasia cutis,Unknown,5
+aplasia cutis,V,2
+basal cell carcinoma,I,85
+basal cell carcinoma,II,156
+basal cell carcinoma,III,112
+basal cell carcinoma,IV,76
+basal cell carcinoma,Unknown,8
+basal cell carcinoma,V,24
+basal cell carcinoma,VI,7
+basal cell carcinoma morpheiform,I,22
+basal cell carcinoma morpheiform,II,33
+basal cell carcinoma morpheiform,III,5
+basal cell carcinoma morpheiform,Unknown,1
+basal cell carcinoma morpheiform,V,1
+becker nevus,I,28
+becker nevus,II,17
+becker nevus,III,8
+becker nevus,IV,8
+becker nevus,V,1
+becker nevus,VI,1
+behcets disease,I,9
+behcets disease,II,13
+behcets disease,III,14
+behcets disease,IV,13
+behcets disease,Unknown,4
+behcets disease,V,9
+behcets disease,VI,1
+calcinosis cutis,I,25
+calcinosis cutis,II,29
+calcinosis cutis,III,8
+calcinosis cutis,IV,5
+calcinosis cutis,Unknown,3
+calcinosis cutis,V,7
+calcinosis cutis,VI,3
+cheilitis,I,25
+cheilitis,II,32
+cheilitis,III,19
+cheilitis,IV,16
+cheilitis,Unknown,7
+cheilitis,V,5
+cheilitis,VI,2
+congenital nevus,I,24
+congenital nevus,II,13
+congenital nevus,III,17
+congenital nevus,IV,8
+congenital nevus,Unknown,1
+congenital nevus,V,2
+congenital nevus,VI,3
+dariers disease,I,20
+dariers disease,II,34
+dariers disease,III,24
+dariers disease,IV,31
+dariers disease,Unknown,5
+dariers disease,V,24
+dariers disease,VI,15
+dermatofibroma,I,16
+dermatofibroma,II,30
+dermatofibroma,III,24
+dermatofibroma,IV,7
+dermatofibroma,Unknown,1
+dermatofibroma,V,1
+dermatomyositis,I,24
+dermatomyositis,II,57
+dermatomyositis,III,27
+dermatomyositis,IV,24
+dermatomyositis,Unknown,2
+dermatomyositis,V,10
+dermatomyositis,VI,7
+disseminated actinic porokeratosis,I,30
+disseminated actinic porokeratosis,II,15
+disseminated actinic porokeratosis,III,8
+disseminated actinic porokeratosis,IV,4
+disseminated actinic porokeratosis,Unknown,1
+disseminated actinic porokeratosis,V,1
+disseminated actinic porokeratosis,VI,1
+drug eruption,I,53
+drug eruption,II,56
+drug eruption,III,31
+drug eruption,IV,34
+drug eruption,Unknown,3
+drug eruption,V,20
+drug eruption,VI,3
+drug induced pigmentary changes,I,9
+drug induced pigmentary changes,II,15
+drug induced pigmentary changes,III,17
+drug induced pigmentary changes,IV,18
+drug induced pigmentary changes,Unknown,1
+drug induced pigmentary changes,V,5
+drug induced pigmentary changes,VI,6
+dyshidrotic eczema,I,18
+dyshidrotic eczema,II,31
+dyshidrotic eczema,III,12
+dyshidrotic eczema,IV,10
+dyshidrotic eczema,Unknown,4
+dyshidrotic eczema,V,2
+dyshidrotic eczema,VI,6
+eczema,I,29
+eczema,II,87
+eczema,III,38
+eczema,IV,23
+eczema,Unknown,3
+eczema,V,13
+eczema,VI,11
+ehlers danlos syndrome,I,12
+ehlers danlos syndrome,II,26
+ehlers danlos syndrome,III,31
+ehlers danlos syndrome,IV,23
+ehlers danlos syndrome,V,28
+ehlers danlos syndrome,VI,7
+epidermal nevus,I,31
+epidermal nevus,II,31
+epidermal nevus,III,9
+epidermal nevus,IV,12
+epidermal nevus,Unknown,4
+epidermal nevus,V,3
+epidermal nevus,VI,1
+epidermolysis bullosa,I,14
+epidermolysis bullosa,II,18
+epidermolysis bullosa,III,13
+epidermolysis bullosa,IV,10
+epidermolysis bullosa,Unknown,2
+epidermolysis bullosa,V,9
+epidermolysis bullosa,VI,4
+erythema annulare centrifigum,I,17
+erythema annulare centrifigum,II,24
+erythema annulare centrifigum,III,31
+erythema annulare centrifigum,IV,13
+erythema annulare centrifigum,Unknown,1
+erythema annulare centrifigum,V,2
+erythema elevatum diutinum,I,6
+erythema elevatum diutinum,II,9
+erythema elevatum diutinum,III,7
+erythema elevatum diutinum,IV,18
+erythema elevatum diutinum,Unknown,2
+erythema elevatum diutinum,V,9
+erythema elevatum diutinum,VI,4
+erythema multiforme,I,39
+erythema multiforme,II,72
+erythema multiforme,III,50
+erythema multiforme,IV,47
+erythema multiforme,Unknown,5
+erythema multiforme,V,23
+erythema nodosum,I,28
+erythema nodosum,II,21
+erythema nodosum,III,13
+erythema nodosum,IV,15
+erythema nodosum,V,4
+factitial dermatitis,I,17
+factitial dermatitis,II,12
+factitial dermatitis,III,8
+factitial dermatitis,IV,3
+factitial dermatitis,Unknown,1
+factitial dermatitis,V,10
+factitial dermatitis,VI,15
+fixed eruptions,I,18
+fixed eruptions,II,23
+fixed eruptions,III,27
+fixed eruptions,IV,29
+fixed eruptions,Unknown,2
+fixed eruptions,V,17
+fixed eruptions,VI,9
+folliculitis,I,30
+folliculitis,II,97
+folliculitis,III,99
+folliculitis,IV,51
+folliculitis,Unknown,25
+folliculitis,V,31
+folliculitis,VI,9
+fordyce spots,I,7
+fordyce spots,II,37
+fordyce spots,III,24
+fordyce spots,IV,18
+fordyce spots,Unknown,9
+fordyce spots,V,2
+fordyce spots,VI,3
+granuloma annulare,I,35
+granuloma annulare,II,55
+granuloma annulare,III,46
+granuloma annulare,IV,52
+granuloma annulare,Unknown,2
+granuloma annulare,V,18
+granuloma annulare,VI,3
+granuloma pyogenic,I,16
+granuloma pyogenic,II,27
+granuloma pyogenic,III,18
+granuloma pyogenic,IV,7
+granuloma pyogenic,Unknown,2
+granuloma pyogenic,V,4
+granuloma pyogenic,VI,1
+hailey hailey disease,I,15
+hailey hailey disease,II,47
+hailey hailey disease,III,61
+hailey hailey disease,IV,40
+hailey hailey disease,Unknown,2
+hailey hailey disease,V,9
+halo nevus,I,7
+halo nevus,II,16
+halo nevus,III,22
+halo nevus,IV,19
+halo nevus,Unknown,1
+halo nevus,V,15
+halo nevus,VI,2
+hidradenitis,I,13
+hidradenitis,II,24
+hidradenitis,III,26
+hidradenitis,IV,17
+hidradenitis,Unknown,1
+hidradenitis,V,6
+hidradenitis,VI,3
+ichthyosis vulgaris,I,4
+ichthyosis vulgaris,II,20
+ichthyosis vulgaris,III,12
+ichthyosis vulgaris,IV,11
+ichthyosis vulgaris,Unknown,3
+ichthyosis vulgaris,V,11
+ichthyosis vulgaris,VI,4
+incontinentia pigmenti,I,29
+incontinentia pigmenti,II,28
+incontinentia pigmenti,III,24
+incontinentia pigmenti,IV,16
+incontinentia pigmenti,V,2
+incontinentia pigmenti,VI,3
+juvenile xanthogranuloma,I,46
+juvenile xanthogranuloma,II,54
+juvenile xanthogranuloma,III,31
+juvenile xanthogranuloma,IV,6
+juvenile xanthogranuloma,Unknown,3
+juvenile xanthogranuloma,V,7
+juvenile xanthogranuloma,VI,2
+kaposi sarcoma,I,17
+kaposi sarcoma,II,27
+kaposi sarcoma,III,29
+kaposi sarcoma,IV,42
+kaposi sarcoma,Unknown,5
+kaposi sarcoma,V,24
+kaposi sarcoma,VI,12
+keloid,I,22
+keloid,II,32
+keloid,III,27
+keloid,IV,29
+keloid,Unknown,2
+keloid,V,24
+keloid,VI,20
+keratosis pilaris,I,16
+keratosis pilaris,II,28
+keratosis pilaris,III,11
+keratosis pilaris,IV,18
+keratosis pilaris,V,5
+langerhans cell histiocytosis,I,21
+langerhans cell histiocytosis,II,20
+langerhans cell histiocytosis,III,9
+langerhans cell histiocytosis,IV,2
+langerhans cell histiocytosis,Unknown,4
+langerhans cell histiocytosis,V,2
+langerhans cell histiocytosis,VI,2
+lentigo maligna,I,14
+lentigo maligna,II,27
+lentigo maligna,III,28
+lentigo maligna,IV,8
+lentigo maligna,Unknown,2
+lentigo maligna,V,3
+lentigo maligna,VI,1
+lichen amyloidosis,I,4
+lichen amyloidosis,II,19
+lichen amyloidosis,III,7
+lichen amyloidosis,IV,15
+lichen amyloidosis,Unknown,1
+lichen amyloidosis,V,22
+lichen amyloidosis,VI,9
+lichen planus,I,45
+lichen planus,II,107
+lichen planus,III,100
+lichen planus,IV,111
+lichen planus,Unknown,12
+lichen planus,V,77
+lichen planus,VI,39
+lichen simplex,I,5
+lichen simplex,II,21
+lichen simplex,III,21
+lichen simplex,IV,20
+lichen simplex,Unknown,3
+lichen simplex,V,17
+lichen simplex,VI,10
+livedo reticularis,I,16
+livedo reticularis,II,18
+livedo reticularis,III,11
+livedo reticularis,IV,12
+livedo reticularis,Unknown,1
+livedo reticularis,V,2
+lupus erythematosus,I,63
+lupus erythematosus,II,91
+lupus erythematosus,III,67
+lupus erythematosus,IV,91
+lupus erythematosus,Unknown,9
+lupus erythematosus,V,55
+lupus erythematosus,VI,34
+lupus subacute,I,35
+lupus subacute,II,35
+lupus subacute,III,14
+lupus subacute,IV,10
+lupus subacute,Unknown,5
+lupus subacute,V,5
+lupus subacute,VI,7
+lyme disease,I,30
+lyme disease,II,55
+lyme disease,III,27
+lyme disease,IV,11
+lyme disease,Unknown,1
+lyme disease,V,2
+lyme disease,VI,3
+lymphangioma,I,19
+lymphangioma,II,28
+lymphangioma,III,19
+lymphangioma,IV,15
+lymphangioma,Unknown,8
+lymphangioma,V,6
+lymphangioma,VI,5
+malignant melanoma,I,32
+malignant melanoma,II,43
+malignant melanoma,III,16
+malignant melanoma,IV,10
+malignant melanoma,Unknown,6
+malignant melanoma,V,3
+malignant melanoma,VI,1
+melanoma,I,41
+melanoma,II,81
+melanoma,III,50
+melanoma,IV,38
+melanoma,Unknown,17
+melanoma,V,23
+melanoma,VI,11
+milia,I,21
+milia,II,44
+milia,III,26
+milia,IV,14
+milia,Unknown,1
+milia,V,5
+milia,VI,1
+mucinosis,I,30
+mucinosis,II,19
+mucinosis,III,15
+mucinosis,IV,13
+mucinosis,Unknown,4
+mucinosis,V,7
+mucinosis,VI,4
+mucous cyst,I,15
+mucous cyst,II,20
+mucous cyst,III,12
+mucous cyst,IV,13
+mucous cyst,Unknown,8
+mucous cyst,V,9
+mucous cyst,VI,2
+mycosis fungoides,I,38
+mycosis fungoides,II,50
+mycosis fungoides,III,42
+mycosis fungoides,IV,29
+mycosis fungoides,Unknown,6
+mycosis fungoides,V,14
+mycosis fungoides,VI,3
+myiasis,I,2
+myiasis,II,11
+myiasis,III,20
+myiasis,IV,11
+myiasis,Unknown,17
+myiasis,V,4
+myiasis,VI,2
+naevus comedonicus,I,9
+naevus comedonicus,II,16
+naevus comedonicus,III,13
+naevus comedonicus,IV,16
+naevus comedonicus,Unknown,1
+naevus comedonicus,V,17
+naevus comedonicus,VI,1
+necrobiosis lipoidica,I,20
+necrobiosis lipoidica,II,33
+necrobiosis lipoidica,III,26
+necrobiosis lipoidica,IV,26
+necrobiosis lipoidica,Unknown,1
+necrobiosis lipoidica,V,13
+necrobiosis lipoidica,VI,4
+nematode infection,I,15
+nematode infection,II,56
+nematode infection,III,79
+nematode infection,IV,60
+nematode infection,Unknown,6
+nematode infection,V,32
+nematode infection,VI,12
+neurodermatitis,I,21
+neurodermatitis,II,25
+neurodermatitis,III,10
+neurodermatitis,IV,6
+neurodermatitis,Unknown,2
+neurodermatitis,V,2
+neurodermatitis,VI,3
+neurofibromatosis,I,17
+neurofibromatosis,II,25
+neurofibromatosis,III,22
+neurofibromatosis,IV,49
+neurofibromatosis,Unknown,2
+neurofibromatosis,V,62
+neurofibromatosis,VI,12
+neurotic excoriations,I,15
+neurotic excoriations,II,18
+neurotic excoriations,III,19
+neurotic excoriations,IV,18
+neurotic excoriations,V,3
+neutrophilic dermatoses,I,70
+neutrophilic dermatoses,II,115
+neutrophilic dermatoses,III,68
+neutrophilic dermatoses,IV,51
+neutrophilic dermatoses,Unknown,11
+neutrophilic dermatoses,V,31
+neutrophilic dermatoses,VI,15
+nevocytic nevus,I,37
+nevocytic nevus,II,31
+nevocytic nevus,III,9
+nevocytic nevus,IV,6
+nevocytic nevus,Unknown,1
+nevocytic nevus,V,1
+nevocytic nevus,VI,1
+nevus sebaceous of jadassohn,I,34
+nevus sebaceous of jadassohn,II,25
+nevus sebaceous of jadassohn,III,17
+nevus sebaceous of jadassohn,IV,6
+nevus sebaceous of jadassohn,Unknown,7
+nevus sebaceous of jadassohn,V,5
+nevus sebaceous of jadassohn,VI,1
+papilomatosis confluentes and reticulate,I,11
+papilomatosis confluentes and reticulate,II,13
+papilomatosis confluentes and reticulate,III,28
+papilomatosis confluentes and reticulate,IV,56
+papilomatosis confluentes and reticulate,V,32
+papilomatosis confluentes and reticulate,VI,10
+paronychia,I,9
+paronychia,II,32
+paronychia,III,9
+paronychia,IV,6
+paronychia,V,3
+pediculosis lids,I,20
+pediculosis lids,II,38
+pediculosis lids,III,41
+pediculosis lids,IV,12
+pediculosis lids,Unknown,38
+pediculosis lids,V,2
+perioral dermatitis,I,14
+perioral dermatitis,II,34
+perioral dermatitis,III,7
+perioral dermatitis,IV,5
+perioral dermatitis,V,1
+photodermatoses,I,59
+photodermatoses,II,128
+photodermatoses,III,84
+photodermatoses,IV,54
+photodermatoses,Unknown,3
+photodermatoses,V,13
+photodermatoses,VI,7
+pilar cyst,I,14
+pilar cyst,II,33
+pilar cyst,III,22
+pilar cyst,IV,12
+pilar cyst,Unknown,3
+pilar cyst,V,7
+pilar cyst,VI,2
+pilomatricoma,I,22
+pilomatricoma,II,16
+pilomatricoma,III,9
+pilomatricoma,IV,2
+pilomatricoma,Unknown,4
+pityriasis lichenoides chronica,I,16
+pityriasis lichenoides chronica,II,25
+pityriasis lichenoides chronica,III,12
+pityriasis lichenoides chronica,IV,15
+pityriasis lichenoides chronica,V,3
+pityriasis lichenoides chronica,VI,2
+pityriasis rosea,I,11
+pityriasis rosea,II,44
+pityriasis rosea,III,40
+pityriasis rosea,IV,69
+pityriasis rosea,Unknown,1
+pityriasis rosea,V,21
+pityriasis rosea,VI,7
+pityriasis rubra pilaris,I,5
+pityriasis rubra pilaris,II,19
+pityriasis rubra pilaris,III,32
+pityriasis rubra pilaris,IV,88
+pityriasis rubra pilaris,Unknown,7
+pityriasis rubra pilaris,V,100
+pityriasis rubra pilaris,VI,27
+porokeratosis actinic,I,6
+porokeratosis actinic,II,26
+porokeratosis actinic,III,62
+porokeratosis actinic,IV,71
+porokeratosis actinic,Unknown,4
+porokeratosis actinic,V,14
+porokeratosis of mibelli,I,7
+porokeratosis of mibelli,II,31
+porokeratosis of mibelli,III,20
+porokeratosis of mibelli,IV,14
+porokeratosis of mibelli,Unknown,1
+porokeratosis of mibelli,V,2
+porokeratosis of mibelli,VI,3
+porphyria,I,15
+porphyria,II,28
+porphyria,III,39
+porphyria,IV,26
+porphyria,Unknown,4
+porphyria,V,13
+porphyria,VI,2
+port wine stain,I,12
+port wine stain,II,21
+port wine stain,III,14
+port wine stain,IV,4
+port wine stain,Unknown,4
+port wine stain,V,4
+prurigo nodularis,I,7
+prurigo nodularis,II,28
+prurigo nodularis,III,39
+prurigo nodularis,IV,56
+prurigo nodularis,Unknown,2
+prurigo nodularis,V,29
+prurigo nodularis,VI,9
+psoriasis,I,113
+psoriasis,II,232
+psoriasis,III,101
+psoriasis,IV,91
+psoriasis,Unknown,31
+psoriasis,V,64
+psoriasis,VI,21
+pustular psoriasis,I,16
+pustular psoriasis,II,18
+pustular psoriasis,III,5
+pustular psoriasis,IV,7
+pustular psoriasis,Unknown,1
+pustular psoriasis,V,3
+pustular psoriasis,VI,3
+pyogenic granuloma,I,37
+pyogenic granuloma,II,39
+pyogenic granuloma,III,19
+pyogenic granuloma,IV,10
+pyogenic granuloma,Unknown,2
+pyogenic granuloma,V,6
+rhinophyma,I,16
+rhinophyma,II,37
+rhinophyma,III,22
+rhinophyma,IV,13
+rhinophyma,V,3
+rosacea,I,24
+rosacea,II,50
+rosacea,III,17
+rosacea,IV,9
+rosacea,Unknown,2
+sarcoidosis,I,76
+sarcoidosis,II,101
+sarcoidosis,III,67
+sarcoidosis,IV,43
+sarcoidosis,Unknown,12
+sarcoidosis,V,36
+sarcoidosis,VI,14
+scabies,I,30
+scabies,II,73
+scabies,III,73
+scabies,IV,62
+scabies,Unknown,28
+scabies,V,55
+scabies,VI,18
+scleroderma,I,88
+scleroderma,II,76
+scleroderma,III,51
+scleroderma,IV,33
+scleroderma,Unknown,13
+scleroderma,V,25
+scleroderma,VI,23
+scleromyxedema,I,10
+scleromyxedema,II,26
+scleromyxedema,III,21
+scleromyxedema,IV,31
+scleromyxedema,Unknown,2
+scleromyxedema,V,13
+scleromyxedema,VI,5
+seborrheic dermatitis,I,27
+seborrheic dermatitis,II,46
+seborrheic dermatitis,III,23
+seborrheic dermatitis,IV,22
+seborrheic dermatitis,V,6
+seborrheic dermatitis,VI,2
+seborrheic keratosis,I,15
+seborrheic keratosis,II,31
+seborrheic keratosis,III,8
+seborrheic keratosis,IV,5
+seborrheic keratosis,Unknown,1
+seborrheic keratosis,V,5
+seborrheic keratosis,VI,4
+solid cystic basal cell carcinoma,I,25
+solid cystic basal cell carcinoma,II,26
+solid cystic basal cell carcinoma,III,8
+solid cystic basal cell carcinoma,IV,2
+solid cystic basal cell carcinoma,Unknown,4
+solid cystic basal cell carcinoma,V,1
+squamous cell carcinoma,I,100
+squamous cell carcinoma,II,180
+squamous cell carcinoma,III,122
+squamous cell carcinoma,IV,71
+squamous cell carcinoma,Unknown,45
+squamous cell carcinoma,V,40
+squamous cell carcinoma,VI,23
+stasis edema,I,15
+stasis edema,II,16
+stasis edema,III,9
+stasis edema,IV,8
+stasis edema,Unknown,8
+stasis edema,V,11
+stasis edema,VI,2
+stevens johnson syndrome,I,38
+stevens johnson syndrome,II,42
+stevens johnson syndrome,III,17
+stevens johnson syndrome,IV,8
+stevens johnson syndrome,Unknown,3
+stevens johnson syndrome,V,2
+stevens johnson syndrome,VI,3
+striae,I,14
+striae,II,24
+striae,III,12
+striae,IV,7
+striae,Unknown,2
+striae,V,7
+striae,VI,1
+sun damaged skin,I,11
+sun damaged skin,II,24
+sun damaged skin,III,17
+sun damaged skin,IV,6
+sun damaged skin,Unknown,2
+sun damaged skin,V,4
+sun damaged skin,VI,2
+superficial spreading melanoma ssm,I,46
+superficial spreading melanoma ssm,II,47
+superficial spreading melanoma ssm,III,14
+superficial spreading melanoma ssm,IV,4
+superficial spreading melanoma ssm,Unknown,2
+superficial spreading melanoma ssm,V,3
+superficial spreading melanoma ssm,VI,2
+syringoma,I,4
+syringoma,II,47
+syringoma,III,36
+syringoma,IV,24
+syringoma,Unknown,2
+syringoma,V,11
+syringoma,VI,3
+telangiectases,I,26
+telangiectases,II,49
+telangiectases,III,20
+telangiectases,IV,16
+telangiectases,Unknown,6
+telangiectases,V,9
+tick bite,I,22
+tick bite,II,29
+tick bite,III,9
+tick bite,IV,6
+tick bite,Unknown,4
+tick bite,V,2
+tick bite,VI,1
+tuberous sclerosis,I,11
+tuberous sclerosis,II,30
+tuberous sclerosis,III,41
+tuberous sclerosis,IV,38
+tuberous sclerosis,Unknown,5
+tuberous sclerosis,V,14
+tuberous sclerosis,VI,2
+tungiasis,I,12
+tungiasis,II,39
+tungiasis,III,37
+tungiasis,IV,27
+tungiasis,Unknown,18
+tungiasis,V,6
+tungiasis,VI,13
+urticaria,I,29
+urticaria,II,42
+urticaria,III,37
+urticaria,IV,39
+urticaria,Unknown,2
+urticaria,V,2
+urticaria pigmentosa,I,32
+urticaria pigmentosa,II,35
+urticaria pigmentosa,III,21
+urticaria pigmentosa,IV,13
+urticaria pigmentosa,V,9
+urticaria pigmentosa,VI,2
+vitiligo,I,7
+vitiligo,II,16
+vitiligo,III,34
+vitiligo,IV,42
+vitiligo,Unknown,7
+vitiligo,V,39
+vitiligo,VI,21
+xanthomas,I,4
+xanthomas,II,15
+xanthomas,III,10
+xanthomas,IV,13
+xanthomas,Unknown,4
+xanthomas,V,3
+xanthomas,VI,4
+xeroderma pigmentosum,I,3
+xeroderma pigmentosum,II,6
+xeroderma pigmentosum,III,14
+xeroderma pigmentosum,IV,19
+xeroderma pigmentosum,Unknown,5
+xeroderma pigmentosum,V,19
+xeroderma pigmentosum,VI,15

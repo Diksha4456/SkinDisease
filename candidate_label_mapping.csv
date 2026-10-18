@@ -1,0 +1,8 @@
+original_label,proposed_project_label,review_note
+acne,acne,candidate mapping; review before use
+acne vulgaris,acne,candidate mapping; review before use
+vitiligo,vitiligo,candidate mapping; verify source definition
+psoriasis,psoriasis,candidate mapping; consider subtype separately
+pustular psoriasis,pustular psoriasis,keep separate until clinical scope decision
+melasma,melasma,not found as exact label in supplied CSV; do not fabricate
+ringworm,ringworm,"not found as exact label in supplied CSV; add only from licensed, verified source"
